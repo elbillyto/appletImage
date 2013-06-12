@@ -1,10 +1,10 @@
 appletImage
 ===========
-applet visor de imagenes en disco local.
+Applet visor de imagenes en disco local.
 By default , all browser security configurations disallow access to local files
 
-Code
-===========
+
+## Code Example
 Images are local files
 
 
