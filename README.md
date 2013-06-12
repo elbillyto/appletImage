@@ -6,8 +6,7 @@ By default , all browser security configurations disallow access to local files
 
 ## Code Example
 Images are local files
-
-<pre>
+```html
 <html>
 <body>
 <applet code=DisplayImageExample.class width="200" height="200" >
@@ -16,9 +15,10 @@ Images are local files
 </applet>
 </body>
 </html>
-</pre>
-
+```
+```javascript
 java.policy
 grant {
   permission java.io.FilePermission "C:/arqJxfs", "read";
 };
+```
