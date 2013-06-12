@@ -1,5 +1,3 @@
-
-
 import java.applet.Applet;
 
 /*
